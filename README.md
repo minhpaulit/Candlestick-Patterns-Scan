@@ -1,1 +1,1 @@
-# Stock-Market-Prediction
+# Candlestick-Patterns-Scan
